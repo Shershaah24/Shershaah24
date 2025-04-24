@@ -1,16 +1,35 @@
-## Hi there 👋
+Hey there, I'm Sheshadri K 👋
 
-<!--
-**Shershaah24/Shershaah24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA in Decision Science | **Mount Carmel College, Bangalore**  
+💼 Founder | Builder | Strategist | API Specialist  
+📍 India | Working on global AI + Infrastructure projects
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a business technologist with a sharp focus on AI, API ecosystems, and full-node infrastructure.  
+Currently pursuing BBA in Decision Science, I combine data-driven thinking with real-world execution to build powerful backend systems and intelligent automation tools.
+
+🔧 Founder of **NodeXcelerate** – High-performance APIs & full-node hosting  
+🧠 Building **Cortex Core** – an AI solution designed to accelerate business growth  
+💬 Specialized in **FastAPI**, **OpenAI integrations**, and **real-time decision architectures**  
+☁️ Deploying across AWS, Replit, GitHub Actions, and scalable cloud infra
+
+🚀 Current Focus
+
+Autonomous API generation using natural language prompts  
+Scalable full-node infra for blockchain ecosystems (ETH, SOL)  
+DevOps pipelines + backend optimization using advanced AI tooling  
+Developing modular tools for FinTech, AI, Gaming & IoT sectors
+
+⚙️ Tech Stack
+
+`Python` • `FastAPI` • `MongoDB` • `OpenAI API` • `AWS EC2/S3` • `Docker`  
+`Replit` • `Framer` • `GitHub Actions` • `VS Code` • `Figma`
+
+ 📊 GitHub Stats
+
+![Shershaah24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shershaah24&show_icons=true&theme=radical)
+
+> _“Greatness isn't coded. It's executed.”_
+
+Let’s connect, collaborate, and create something world-class.
