@@ -23,8 +23,8 @@ Developing modular tools for FinTech, AI, Gaming & IoT sectors
 
 ⚙️ Tech Stack
 
-`Python` • `FastAPI` • `MongoDB` • `OpenAI API` • `AWS EC2/S3` • `Docker`  
-`Replit` • `Framer` • `GitHub Actions` • `VS Code` • `Figma`
+`Python` • `FastAPI` • `MongoDB` • `OpenAI API` • `AWS EC2` • `Docker`  
+`Replit` • `GitHub Actions` • `VS Code`
 
  📊 GitHub Stats
 
