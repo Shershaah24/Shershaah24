@@ -1,6 +1,6 @@
 Hey there, I'm Sheshadri K 👋
 
-🎓 BBA in Decision Science | **Mount Carmel College, Bangalore**  
+🎓 BBA | **Mount Carmel College, Bangalore**  
 💼 Founder | Builder | Strategist | API Specialist  
 📍 India | Working on global AI + Infrastructure projects
 
